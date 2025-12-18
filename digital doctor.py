@@ -710,7 +710,7 @@ medical_data = {
 }
 
 print("-" * 30)
-print("🏥 DISEASE INFO PORTAL")
+print("🏥 DIGITAL DOCTOR")
 print("-" * 30)
 
 disease = input("Enter disease name: ").lower().strip()
